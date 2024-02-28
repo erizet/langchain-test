@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@langchain/community": "^0.0.33",
+    "cheerio": "^1.0.0-rc.12",
+    "langchain": "^0.1.23"
+  },
+  "type": "module"
+}
